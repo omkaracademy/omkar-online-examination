@@ -1,6 +1,6 @@
 {
   "name": "OmkarOnlineExam",
-  "app_id": "",
+  "app_id": "231294",
   "watchPatterns": [
     "www/**/*.html",
     "www/build/**/*",
